@@ -1,0 +1,1 @@
+// This component is intentionally removed to reduce bloat and remove GSAP dependencies.
