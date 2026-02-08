@@ -5,7 +5,6 @@ import Services from './Services';
 import Timeline from './Timeline';
 import Testimonials from './Testimonials';
 import Portfolio from './Portfolio';
-import CoachChat from './CoachChat';
 import ScrollPencilLine from './ScrollPencilLine';
 import CoffeeMantra from './CoffeeMantra';
 import { motion, useSpring } from 'framer-motion';
@@ -123,8 +122,6 @@ const App: React.FC = () => {
             </p>
         </div>
       </footer>
-
-      <CoachChat />
     </div>
   );
 };
